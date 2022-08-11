@@ -1,4 +1,4 @@
-## Website: Boostrap Product Page
+## Website: Bootstrap Product Page
 
 ![page-showcase](app-showcase/page-showcase.gif)
 
