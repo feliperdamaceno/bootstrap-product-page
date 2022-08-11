@@ -1,0 +1,55 @@
+/* =-=-=-=-=-= Import =-=-=-=-=-= */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;700;900&family=Ubuntu:wght@300;400;700&display=swap");
+
+/* =-=-=-=-=-= General =-=-=-=-=-= */
+
+:root {
+  /* Fonts */
+  --ff-regular: "Noto Sans", sans-serif;
+  --ff-brand: "Ubuntu", sans-serif;
+
+  /* Colors */
+  --clr-brand: #f27a5e;
+}
+
+body {
+  font-family: var(--ff-regular);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.text-brand {
+  color: var(--clr-brand);
+}
+
+.bg-brand {
+  background-color: var(--clr-brand);
+}
+
+/* =-=-=-=-=-= Header =-=-=-=-=-= */
+
+.brand-logo {
+  font-family: var(--ff-brand);
+}
+
+.hero-img {
+  max-width: 65%;
+  filter: drop-shadow(0 0 0.5rem rgba(0, 0, 0, 0.4));
+}
+
+@media (min-width: 992px) {
+  .hero-img {
+    max-width: 55%;
+    transform: rotate(25deg);
+  }
+}
+
+/* =-=-=-=-=-= Pricing =-=-=-=-=-= */
+
+.pricing-card {
+  min-width: fit-content;
+}
