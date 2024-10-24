@@ -1,31 +1,21 @@
-## Website: Bootstrap Product Page
+## Bootstrap Product Page
 
 ![page-showcase](app-showcase/page-showcase.gif)
 
-This project was created to be part of my portfolio. The page was created using Bootstrap 5, with mobile-first in mind and using all the functionalities Bootstrap offers to use.
+Project developed as part of my professional portfolio. It is built using Bootstrap 5, with a mobile-first approach, fully leveraging the framework's features and components to ensure responsive and optimized performance across devices.
 
 [Demo Here](https://feliperdamaceno.github.io/bootstrap-product-page/)
 
 ## Licence
 
-This repository is released under the [**MIT License**](LICENSE).
-
-## From me to you
-
-Hi, my name is **Felipe!**
-
-I'm a Front-End student who wants to share my learning with the community, helping other devs in the same situation.
-
-At the moment I'm studying by myself in 💻 online courses, 📄 reading the documentation, and 💪 hard practicing every day. So if I can, **you could too!**
-
-I hope you've enjoyed this repository and have helped you in some way.
-
-Thanks for checking out and have good learning 😉"
+This is an open-source project and is available under the [**MIT License**](LICENSE). You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 ## Contributors
 
-[feliperdamaceno](https://github.com/feliperdamaceno/)
+Contributions are highly appreciated! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+[feliperdamaceno](https://github.com/feliperdamaceno)
 
 ## Contact me
 
-Linkedin: [feliperdamaceno](https://www.linkedin.com/in/feliperdamaceno/)
+Linkedin: [feliperdamaceno](https://www.linkedin.com/in/feliperdamaceno)
